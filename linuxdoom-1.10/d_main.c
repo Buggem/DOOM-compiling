@@ -940,7 +940,7 @@ void D_DoomMain (void)
     {
 	// the parms after p are wadfile/lump names,
 	// until end of parms or another - preceded parm
-	modifiedgame = true;            // homebrew levels
+	// modifiedgame = true;            // homebrew levels
 	while (++p != myargc && myargv[p][0] != '-')
 	    D_AddFile (myargv[p]);
     }
