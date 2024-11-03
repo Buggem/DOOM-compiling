@@ -1078,7 +1078,7 @@ void D_DoomMain (void)
 	printf (
 	    "===========================================================================\n"
 	    "                 Commercial product - do not distribute!\n"
-	    "         Please report software piracy to the SPA: 1-800-388-PIR8\n"
+	    "   Please report software piracy to the SPA (I love spas): 1-800-388-PIR8  \n"
 	    "===========================================================================\n"
 	);
 	break;
@@ -1099,6 +1099,8 @@ void D_DoomMain (void)
 
     printf ("I_Init: Setting up machine state.\n");
     I_Init ();
+
+	printf ("L_Init: Setting up Leyi's Chips.\n");
 
     printf ("D_CheckNetGame: Checking network game status.\n");
     D_CheckNetGame ();
