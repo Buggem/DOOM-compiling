@@ -34,7 +34,7 @@
 #ifdef FRENCH
 #include "d_french.h"
 #else
-#include "d_englsh.h"
+#include "d_english.h"
 #endif
 
 // Misc. other strings.
