@@ -1,3 +1,5 @@
+# DOOM Source Code (Compiling Edition)
+### Foreword
 
 Here it is, at long last.  The DOOM source code is released for your
 non-profit use.  You still need real DOOM data to work with this code.
@@ -74,8 +76,10 @@ compatable version of DOOM on multiple platforms next year.
 
 Have fun.
 
-John Carmack
-12-23-97
+John Carmack, 12/23/1997
 
+
+----------------------------------------------------------------------------------
 Copyright (c) ZeniMax Media Inc.
+
 Licensed under the GNU General Public License 2.0.
